@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://KolyazovKA.github.io/WH_Frontend",
+  "homepage": "https://kolyazovka.github.io/WH_Frontend/",
   "scripts": {
     "dev": "cross-env vite --host",
     "build": "tsc -b && vite build",
